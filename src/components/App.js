@@ -3,9 +3,9 @@ import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Route, Switch, Link } from "react-router-dom";
 import PrivateRoute from "react-private-route";
 
-import Login from "./login";
-import Home from "./home";
-import NotFound from "./notfound";
+import Login from "./Login";
+import Home from "./Home";
+import NotFound from "./Notfound";
 
 class App extends React.Component {
   constructor(props) {
