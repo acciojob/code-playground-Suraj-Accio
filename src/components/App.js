@@ -5,7 +5,7 @@ import PrivateRoute from "react-private-route";
 
 import Login from "./Login";
 import Home from "./Home";
-import NotFound from "./Notfound";
+import NotFound from "./NotFound";
 
 class App extends React.Component {
   constructor(props) {
